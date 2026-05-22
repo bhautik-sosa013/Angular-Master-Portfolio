@@ -11,27 +11,27 @@ export const routes: Routes = [
     {
         path: AppRoutes.HOME,
         component: HomeComponent,
-        title: `Dhruvil's Portfolio`,
+        title: `Walter White's Portfolio`,
     },
     {
         path: AppRoutes.PROJECTS,
         component: ProjectsComponent,
-        title: `Projects | Dhruvil's Portfolio`,
+        title: `Projects | Walter White's Portfolio`,
     },
     {
         path: AppRoutes.EXPERIENCE,
         component: ExperienceComponent,
-        title: `Experience | Dhruvil's Portfolio`,
+        title: `Experience | Walter White's Portfolio`,
     },
     {
         path: AppRoutes.EDUCATION,
         component: EducationComponent,
-        title: `Education | Dhruvil's Portfolio`,
+        title: `Education | Walter White's Portfolio`,
     },
     {
         path: AppRoutes.ACHIEVEMENTS,
         component: AchievementsComponent,
-        title: `Achievements | Dhruvil's Portfolio`,
+        title: `Achievements | Walter White's Portfolio`,
     },
     {
         path: "**",
@@ -40,6 +40,6 @@ export const routes: Routes = [
     {
         path: AppRoutes.ERROR,
         component: ErrorComponent,
-        title: `Error | Dhruvil's Portfolio`,
+        title: `Error | Walter White's Portfolio`,
     }
 ];
