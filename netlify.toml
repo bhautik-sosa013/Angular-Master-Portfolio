@@ -1,0 +1,12 @@
+# Buildr-generated for Angular import.
+# Angular's application builder writes to a project-specific subdir; this
+# tells Netlify where to find index.html. SPA fallback keeps deep-links working.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
