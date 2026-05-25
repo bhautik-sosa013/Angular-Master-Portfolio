@@ -1,0 +1,44 @@
+Warning: Running a server with --disable-host-check is a security risk. See https://medium.com/webpack/webpack-dev-server-middleware-security-issues-1489d950874a for more information.
+The "disableHostCheck" option will not be used because it is not supported by the "@angular-devkit/build-angular:application" builder.
+❯ Building...
+✔ Building...
+Initial chunk files | Names         |  Raw size
+main.js             | main          | 141.50 kB | 
+polyfills.js        | polyfills     |  90.20 kB | 
+styles.css          | styles        |  44.10 kB | 
+scripts.js          | scripts       |  20.07 kB | 
+
+                    | Initial total | 295.86 kB
+
+Application bundle generation complete. [2.087 seconds]
+
+Watch mode enabled. Watching for file changes...
+NOTE: Raw file sizes do not reflect development server per-request transformations.
+  ➜  Local:   http://localhost:4200/
+  ➜  Network: http://10.0.0.123:4200/
+  ➜  Network: http://172.17.0.1:4200/
+  ➜  Network: http://172.19.0.1:4200/
+  ➜  Network: http://172.18.0.1:4200/
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+Initial chunk files | Names |  Raw size
+main.js             | main  | 141.51 kB | 
+
+Application bundle generation complete. [0.395 seconds]
+
+Page reload sent to client(s).
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+
+No output file changes.
+
+Application bundle generation complete. [0.061 seconds]
+
+❯ Changes detected. Rebuilding...
+✔ Changes detected. Rebuilding...
+
+No output file changes.
+
+Application bundle generation complete. [0.054 seconds]
+
+Page reload sent to client(s).
