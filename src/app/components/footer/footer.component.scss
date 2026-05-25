@@ -10,3 +10,12 @@
 .footer-div {
     margin-top: 4rem;
 }
+
+.silver-heart {
+    background: linear-gradient(135deg, #e8e8e8, #b0b0b0, #d4d4d4, #a0a0a0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 1.2em;
+    filter: drop-shadow(0 0 2px rgba(192, 192, 192, 0.6));
+}
