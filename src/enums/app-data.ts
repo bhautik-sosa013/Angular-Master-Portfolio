@@ -9,7 +9,7 @@ import { AssetPaths } from "./asset-paths.enum";
 const SocialMediaLinks: ExternalSite[] = [
     {
         name: "Github",
-        link: "https://github.com/dhruvilrathod",
+        link: "https://github.com/bhautik-sosa013",
         simpleIconName: "GitHub",
         backgroundColor: "#181717",
     },
