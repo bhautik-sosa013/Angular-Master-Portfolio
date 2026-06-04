@@ -51,3 +51,6 @@ dist
 build
 .next
 .vite
+
+# Added by projectcode.dev
+environments
