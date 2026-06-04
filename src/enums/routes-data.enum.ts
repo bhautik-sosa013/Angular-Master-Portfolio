@@ -39,12 +39,6 @@ export const RoutesData: RouteData[] = [
         isVisible: true,
     },
     {
-        routeLinkText: "Contact",
-        routeURLName: AppRoutes.CONTACT,
-        isVisible: true,
-        isExternalLink: true,
-    },
-    {
         routeLinkText: "Error",
         routeURLName: AppRoutes.ERROR,
         isVisible: false,
