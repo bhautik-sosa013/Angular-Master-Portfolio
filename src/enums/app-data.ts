@@ -21,7 +21,7 @@ const SocialMediaLinks: ExternalSite[] = [
     },
     {
         name: "LeetCode",
-        link: "https://leetcode.com/dhruvilrathod/",
+        link: "https://leetcode.com/u/ritigit7/",
         simpleIconName: "LeetCode",
         backgroundColor: "#FFA116",
     },
