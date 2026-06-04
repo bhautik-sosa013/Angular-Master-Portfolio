@@ -27,7 +27,7 @@ const SocialMediaLinks: ExternalSite[] = [
     },
     {
         name: "Gmail",
-        link: "mailto:thedhruvilrathod@gmail.com",
+        link: "mailto:bhautik.sosa@lenditt.com",
         simpleIconName: "Gmail",
         backgroundColor: "#EA4335",
     },
@@ -602,7 +602,7 @@ export const AppConfig = {
     loaderSplashAnimation: true,        // enable or disable splash screen at the initialization of website
     logoName: "Bjorn Ironside",          // Signature font logo name in header
     name: "Bjorn Ironside",              // your name
-    emailId: "thedhruvilrathod@gmail.com",  // your email id
+    emailId: "bhautik.sosa@lenditt.com",  // your email id
 
     // Google Form Contact Link
     googleFormContactLink: "https://docs.google.com/forms/d/e/1FAIpQLSfMOsQhl_Lci5s_qrYN-LEWlJ3NoBag-Uyf17IGktExA5KDpw/viewform?usp=header",
