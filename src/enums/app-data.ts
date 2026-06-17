@@ -233,7 +233,7 @@ const DigitalSolutionSkills: ExternalSite[] = [
 
 // Design section
 const DigitalSolutionSection: SkillSection = {
-    sectionTitle: "Digital Solutions & Consultancy",
+    sectionTitle: "Paramesh the lagend !",
     imagePath: AssetPaths.DIGITAL_SOLUTIONS_SVG,
     skillLinks: DigitalSolutionSkills,
     skillsList: [
