@@ -54,3 +54,7 @@ build
 
 # Added by projectcode.dev
 environments
+
+# Added by Buildr github-import: keep environments/ files in the deployed tree
+!src/environments/environment.ts
+!src/environments/environment.prod.ts
